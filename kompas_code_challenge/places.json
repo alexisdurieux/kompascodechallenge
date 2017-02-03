@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Chez Pépé",
+    "city": "Rouen",
+    "address": "Place du vieux marché, 76000 Rouen",
+    "type": "restaurant",
+    "rating": 5
+  },
+  {
+    "name": "British Museum",
+    "city": "London",
+    "address": "An address in london",
+    "type": "museum",
+    "rating": 4
+  },
+  {
+    "name": "Another restaurant in Rouen",
+    "city": "Rouen",
+    "address": "An address in Rouen",
+    "type": "restaurant",
+    "rating": 1
+  },
+  {
+    "name": "Eiffel Tower",
+    "city": "Paris",
+    "address": "A street in paris",
+    "type": "monument",
+    "rating": 3
+  },
+  {
+    "name": "Chinese Restaurant",
+    "city": "Beijing",
+    "address": "Street in Beijing",
+    "type": "restaurant",
+    "rating": 5
+  },
+  {
+    "name": "Stadium",
+    "city": "Tangier",
+    "address": "Street of sport",
+    "type": "sport",
+    "rating": 3
+  },
+  {
+    "name": "Golden Gate",
+    "city": "San Francisco",
+    "address": "A bridge in SF",
+    "type": "monument",
+    "rating": 5
+  },
+  {
+    "name": "University",
+    "city": "Cambridge",
+    "address": "Gryffondor Hall",
+    "type": "magic",
+    "rating": 4
+  },
+  {
+    "name": "Bell Center",
+    "city": "Montréal",
+    "address": "Bell Center",
+    "type": "sport",
+    "rating": 5
+  },
+  {
+    "name": "Football Team",
+    "city": "Liverpool",
+    "address": "Address of the football team",
+    "type": "sport",
+    "rating": 5
+  },
+  {
+    "name": "Apple Store",
+    "city": "New York City",
+    "address": "5th avenue",
+    "type": "store",
+    "rating": 4
+  },
+  {
+    "name": "Arc de triomphe",
+    "city": "Paris",
+    "address": "Avenue des champs-élysées",
+    "type": "monument",
+    "rating": 2
+  },
+  {
+    "name": "Le Louvre",
+    "city": "Paris",
+    "address": "Le Louvre",
+    "type": "museum",
+    "rating": 5
+  },
+  {
+    "name": "Lincoln's Memorial",
+    "city": "Washington",
+    "address": "A big avenue in Washington",
+    "type": "monument",
+    "rating": 4
+  },
+  {
+    "name": "The Shard",
+    "city": "London",
+    "address": "The big building in London",
+    "type": "business",
+    "rating": 5
+  }
+]

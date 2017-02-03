@@ -1,0 +1,92 @@
+[
+  {
+    "first_name": "Alexis",
+    "last_name": "Durieux",
+    "age": 22,
+    "city": "Rouen"
+  },
+  {
+    "first_name": "John",
+    "last_name": "Smith",
+    "age": 35,
+    "city": "London"
+  },
+  {
+    "first_name": "Michel",
+    "last_name": "Dupont",
+    "age": 60,
+    "city": "Paris"
+  },
+  {
+    "first_name": "Yi",
+    "last_name": "Yang",
+    "age": 28,
+    "city": "Beijing"
+  },
+  {
+    "first_name": "Mohammed",
+    "last_name": "Ali",
+    "age": 18,
+    "city": "Tangier"
+  },
+  {
+    "first_name": "Jack",
+    "last_name": "Zuckergates",
+    "age": 25,
+    "city": "San Francisco"
+  },
+  {
+    "first_name": "Susan",
+    "last_name": "Johns",
+    "age": 45,
+    "city": "Cambridge"
+  },
+  {
+    "first_name": "Kate",
+    "last_name": "kate_last_name",
+    "age": 30,
+    "city": "Montréal"
+  },
+  {
+    "first_name": "David",
+    "last_name": "Gilmour",
+    "age": 55,
+    "city": "London"
+  },
+  {
+    "first_name": "Bruce",
+    "last_name": "Springsteen",
+    "age": 15,
+    "city": "New York City"
+  },
+  {
+    "first_name": "Nina",
+    "last_name": "Simone",
+    "age": 38,
+    "city": "to_determine"
+  },
+  {
+    "first_name": "Ludivico",
+    "last_name": "Einaudi",
+    "age": 31,
+    "city": "Firenze"
+  },
+  {
+    "first_name": "Flea",
+    "last_name": "Bass",
+    "age": 43,
+    "city": "Las Vegas"
+  },
+  {
+    "first_name": "Carol",
+    "last_name": "Johnson",
+    "age": 38,
+    "city": "Bath"
+  },
+  {
+    "first_name": "Carl",
+    "last_name": "Grims",
+    "age": 13,
+    "city": "Washington"
+  }
+]

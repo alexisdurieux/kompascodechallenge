@@ -1,0 +1,3 @@
+rootProject.name = 'kompas_ios_app'
+
+include ':app'
